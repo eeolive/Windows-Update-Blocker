@@ -1,37 +1,37 @@
-# Windows Update Blocker (WUB)
+# Windows 更新阻断器（WUB）
 
-## 📌 Overview
-Windows Update Blocker (WUB) is a simple and effective tool that allows you to **completely disable** or **re-enable** Windows Updates and related services with a single click. This is useful for users who want full control over Windows updates to prevent unwanted changes, system slowdowns, or forced restarts.
+## 📌 概述
+Windows 更新阻断器（WUB）是一款简单且高效的工具，允许您只需一键**即可完全禁用**或**重新启用** Windows 更新及相关服务。这对希望完全掌控 Windows 更新的用户非常有用，以防止不必要的更改、系统变慢或强制重启。
 
-## 🚀 Features
-- ✅ **One-click disable/enable Windows Updates**
-- ✅ **Prevents Windows from automatically re-enabling updates**
-- ✅ **Lightweight and portable (no installation required)**
-- ✅ **Works on Windows 10 & 11**
+## 🚀 特色
+- ✅ **一键禁用/启用 Windows 更新**
+- ✅ **防止 Windows 自动重新启用更新**
+- ✅ **轻便便携（无需安装）**
+- ✅ **适用于 Windows 10 和 11**
 
-## 🛠️ How to Use
-### **Disable Windows Updates**
-1. **Run `Wub.exe` as Administrator**
-2. Select **"Disable Updates"**
-3. Click **"Apply Now"**
-4. ✅ Done! Windows Update services are now disabled.
+## 🛠️ 如何使用
+### **禁用 Windows 更新**
+1. **以管理员身份 `Wub.exe` 运行**
+2. 选择 **"Disable Updates"**
+3. 点击 **"Apply Now"**
+4. ✅ 完成！Windows 更新服务现已禁用。
 
-### **Re-enable Windows Updates**
-1. Open **WUB**
-2. Select **"Enable Updates"**
-3. Click **"Apply Now"**
-4. 🔄 Windows Updates are now restored.
+### **重新启用 Windows 更新**
+1. 开放 **WUB**
+2. 选择 **"Enable Updates"**
+3. 点击 **"Apply Now"**
+4. 🔄 Windows 更新现已恢复。
 
-### **Advanced Settings**
-- Click **"Menu" > Service List** to see which Windows services are affected.
-- You can modify `Wub.ini` for additional configurations.
+### **高级设置**
+- 点击 **"Menu" > Service List** 查看哪些 Windows 服务受影响。
+- 你可以修改 `Wub.ini` 以实现更多配置。
 
-## ❗ Important Notes
-- Some third-party applications or Windows Defender may try to re-enable updates.
-- Windows Feature Updates may reset WUB settings—reapply if needed.
+## ❗ 重要说明
+- 一些第三方应用或 Windows Defender 可能会尝试重新启用更新。
+- Windows 功能更新可能会重置 WUB 设置——如有需要需重新应用。
 
 
 
-## 💡 Disclaimer
-This tool is for **educational purposes only**. Use at your own risk. Disabling updates may leave your system vulnerable.
+## 💡 免责声明
+此工具 **仅供教学用途**。请自行承担风险。禁用更新可能会让你的系统变得脆弱。
 
